@@ -21,6 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=withe)&nbsp;
+![LangChain](https://img.shields.io/badge/-langchain-05122A?style=flat&logo=langchain)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
