@@ -1,6 +1,6 @@
 <h2>Hi! I'm Daniele</h2>
 
-![Daniele Sileoni Banner](https://raw.githubusercontent.com/danisileoni/danisileoni/refs/heads/main/Banner-git-hub.png)
+![Daniele Sileoni Banner](https://raw.githubusercontent.com/danisileoni/danisileoni/refs/heads/main/Banner-git-hub-new.png)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
